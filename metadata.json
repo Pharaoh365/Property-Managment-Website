@@ -1,0 +1,7 @@
+{
+  "name": "MKDDY Property Management",
+  "description": "A modern, high-performance property management platform featuring AI-powered tenant assistance, immersive property showcases, and dedicated portals for owners and tenants.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
